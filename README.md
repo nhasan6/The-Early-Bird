@@ -1,2 +1,2 @@
-# The-Early-Bird
+# The Early Bird
 Python Runner Game
