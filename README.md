@@ -25,7 +25,8 @@ The perfect, low-stress runner game! Help the chicken collect as many eggs as po
 
 ## Controls
 
-to be updated
-
+Press SPACE to start the game.  
+Press SPACE or CLICK the trackpad/mouse to jump.  
+Press the DOWN ARROW to duck.  
 
 
